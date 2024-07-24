@@ -1,6 +1,6 @@
 <h1>Hello! Nice to see you. 👋</h1>
 
-<p>Welcome to my page! </br> I'm Lisa, Frontend developer from <img src="https://www.flaticon.com/free-icon/russia_197408?term=russia&page=1&position=2&origin=search&related_id=197408" width="13"/> <b>Berdyansk, Russia</b>.</p>
+<p>Welcome to my page! </br> I'm Lisa, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Berdyansk, Russia</b>.</p>
 
 <h2>Tools and technologies that I use:</h2>
 
